@@ -5,7 +5,7 @@
 ---
 # ***Waar staat DNS voor***
 - DNS = Domain Name System
-![bg right](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNB8HJq5lzAHzxrwQHchJix3Ko2krY7MIbnGVAduc4-qMEKqEbYOcDmhmv&s=10)
+![bg right h: 100](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNB8HJq5lzAHzxrwQHchJix3Ko2krY7MIbnGVAduc4-qMEKqEbYOcDmhmv&s=10)
 
 ---
 # ***Wat is DNS***
