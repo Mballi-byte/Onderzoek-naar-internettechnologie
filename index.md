@@ -20,7 +20,7 @@
 # ***Vertragingen***
 - websites trager laden of tijdelijk helemaal onbereikbaar zijn
 
-# ***Internet Veiligheid***
+# ***Invloed of je veiligheid***
 - Diefstal van gevoelige gegevens (Phishing)
 - malware-infecties
 - Man-in-the-middle aanvallen
